@@ -19,21 +19,20 @@ header{
 }
 nav{
     padding: 0px;
+
 }
 section{
-    background-color: rgb(202, 238, 236);
+    background-color: #e1f1fd;
     border-radius: 5px;
-    color: #333;
-    margin-top: 10px;
-    padding: 15px;
+    color: #555;
+    margin: 10px;
+    padding: 20px;
     text-align: center;
-    margin: 15px;
 }
 article{
     border: 2px groove darkcyan;
-    margin: auto;
-    margin-bottom: 5px;
-    padding: 15px;
+    margin: 10px;
+    padding: 10px;
     width: 98%;
 }
 aside{
@@ -47,6 +46,7 @@ aside{
 }
 footer{
     position: sticky;
+    padding: 8px;
     background-color: #333;
     overflow: hidden;
 }
