@@ -7,8 +7,11 @@ body{
     font-size: 16px;
 }
 header{
-    background: #1abc9c;
-    color: white;
+    background-image: url("../src/rakan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1abc9c;
+    color: #e1f1fd;
     padding: 40px;
     text-align: center;
     font-size: 34px;
